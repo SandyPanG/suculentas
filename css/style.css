@@ -1,0 +1,7 @@
+.space {
+  background: linear-gradient(to bottom, #002400 0%,#005700 17%,#008a00 33%,#52b152 67%,#83c783 83%,#b4ddb4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.bck {
+  background: linear-gradient(to bottom, #299a0b 0%,#299a0b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
